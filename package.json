@@ -1,0 +1,20 @@
+{
+  "name": "node-explorer-hat",
+  "version": "0.0.1",
+  "description": "Node module for the Pimoroni Explorer HAT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pimoroni/node-explorer-hat.git"
+  },
+  "author": "Phil Howard <phil@pimoroni.com> (http://pimoroni.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pimoroni/node-explorer-hat/issues"
+  },
+  "homepage": "https://github.com/pimoroni/node-explorer-hat",
+  "dependencies": {
+    "i2c": "0.1.8",
+    "rpio": "^0.9.0"
+  }
+}
